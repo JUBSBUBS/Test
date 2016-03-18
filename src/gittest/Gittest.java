@@ -15,8 +15,9 @@ public class Gittest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // ipaniy GIT///
+        // ipaniy GIT///treeeeeeeeesh
         System.out.println("Are you a programmer?");
+        //Pryuviet
     }
     
 }
